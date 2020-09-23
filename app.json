@@ -5,7 +5,7 @@
     "env": {
         "PASSWORD": {
             "description": "brook password",
-            "value": "18830209lkh"
+            "value": "password"
         }
     },
     "website": "https://github.com/mixool/brook",
